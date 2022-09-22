@@ -4,7 +4,7 @@
 
 ![image](https://user-images.githubusercontent.com/74647806/191694869-5d39d4b9-0889-4da2-b367-2d14907da1d4.png)
 
-## You can view the model on [Bldrs](https://bldrs.ai/share/v/gh/Swiss-Property-AG/Eisvogel-Public/main/EISVOGEL.ifc#i:1327324622::c:-22.3,9.6,55.38,5.36,6.68,25.16)
+## You can view the model on [Bldrs](https://bldrs.ai/share/v/gh/Swiss-Property-AG/Eisvogel-Public/main/EISVOGEL.ifc#i:1327324622::c:-73.66,29.94,54.79,-2.14,-0.61,19.2)
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
